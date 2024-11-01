@@ -7,13 +7,14 @@ combines them to advance a reliable and more accurate classifier. Evaluation mea
 F1-score, recall, and precision for performance comparison. The efficiency of the proposed method is compared with 
 the two existing boosting approaches, namely gradient boosting and adaboost.
 .........
-#Article Highlights
+
+#**Article Highlights**
 • Introduce ensemble learning techniques for efficient classification of medical documents in Afaan Oromo
 • These ensemble techniques combine the predictions of utilized base learner and apply the voting methods to 
 obtain the improved final prediction model.
 • The results demonstrate the effectiveness of the proposed ensemble method by achieving 94.81% accuracy
 
-#The contributions of the proposed works are:
+**#The contributions of the proposed works are:**
 • Develop labeled Afaan Oromo medical documents with the help of domain experts, which is helpful for other 
 works in this domain.
 • Propose a method of an ensemble learning model for Afaan Oromo medical text automatic classification
