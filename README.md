@@ -37,7 +37,11 @@ Graphical representation of performance of boosting classifier VS Proposed ensem
 ![exp3](https://github.com/user-attachments/assets/8fc14f31-f28b-4345-bf47-392170617021)
 
 Graphical representation of the experimental results comparison of BOW VS TF-IDF in all utilized models
-Contributor 
+
+Read full paper published on Nature: https://link.springer.com/article/10.1007/s42452-024-06307-0
+
+For further information reach # etanaf@wollegauniversity.edu.et / 142334001@smail.iitpkd.ac.in
+**Contributor **
 1. Etana Fikadu(PhD candidate)
 2. Mrinal Das(PhD)
 3. Teklu Urgessa(PhD)
