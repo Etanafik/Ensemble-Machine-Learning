@@ -27,6 +27,10 @@ In this paper, the researcher used a single ML such as NB, RF, SVM, and logistic
 ![2ensemble1](https://github.com/user-attachments/assets/59be7536-4d98-4f1c-9886-68f4bd5fb63a)
 
 Overview of proposed methodology of Afaan Oromo medical text classification framework
+![exp1](https://github.com/user-attachments/assets/53b6f870-f102-4bd7-bea3-f3110f33007d)
+Graphical representation of performance of individual classifier VS proposed ensemble learning model using BOW
+![exp2](https://github.com/user-attachments/assets/048aa1ae-8db6-499a-bd62-c7026f4b25ac)
+Graphical representation of performance of boosting classifier VS Proposed ensemble learning model using BOW
 
 Contributor 
 1. Etana Fikadu(PhD candidate)
