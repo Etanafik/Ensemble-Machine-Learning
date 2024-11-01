@@ -24,18 +24,19 @@ Comparative analysis of the proposed ensemble learning model and boosting algori
 
 In this paper, the researcher used a single ML such as NB, RF, SVM, and logistic regression as baseline models and booting approaches like Adaboost and Gradient Boosting classifiers for the purpose of result comparison with the proposed model (combination of baseline models).
 
-![2ensemble1](https://github.com/user-attachments/assets/59be7536-4d98-4f1c-9886-68f4bd5fb63a)
+ <img src="https://github.com/user-attachments/assets/59be7536-4d98-4f1c-9886-68f4bd5fb63a" alt="Alt Text" width="800" height="400">
 
 Overview of proposed methodology of Afaan Oromo medical text classification framework
-![exp1](https://github.com/user-attachments/assets/53b6f870-f102-4bd7-bea3-f3110f33007d)
+ <img src="https://github.com/user-attachments/assets/53b6f870-f102-4bd7-bea3-f3110f33007d" alt="Alt Text" width="600" height="300">
+ 
 Graphical representation of performance of individual classifier VS proposed ensemble learning model using BOW
 
-![exp2](https://github.com/user-attachments/assets/048aa1ae-8db6-499a-bd62-c7026f4b25ac)
+ <img src="https://github.com/user-attachments/assets/048aa1ae-8db6-499a-bd62-c7026f4b25ac" alt="Alt Text" width="600" height="300">
 
 Graphical representation of performance of boosting classifier VS Proposed ensemble learning model using BOW
 
-![exp3](https://github.com/user-attachments/assets/8fc14f31-f28b-4345-bf47-392170617021)
- 
+ <img src="https://github.com/user-attachments/assets/8fc14f31-f28b-4345-bf47-392170617021" alt="Alt Text" width="600" height="300">
+  
 Graphical representation of the experimental results comparison of BOW VS TF-IDF in all utilized models
 
 Read full paper published on Nature: https://link.springer.com/article/10.1007/s42452-024-06307-0
@@ -46,4 +47,4 @@ For further information reach # etanaf@wollegauniversity.edu.et / 142334001@smai
 2. Mrinal Das(PhD)
 3. Teklu Urgessa(PhD)
    
-Full paper: https://link.springer.com/article/10.1007/s42452-024-06307-0
+
