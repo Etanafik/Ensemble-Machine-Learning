@@ -22,6 +22,12 @@ works in this domain.
 Comparative analysis of the proposed ensemble learning model and boosting algorithms has been done.
 • The performance analysis showed that the proposed model improves the performance of individual classifers
 
+In this paper, the researcher used a single ML such as NB, RF, SVM, and logistic regression as baseline models and booting approaches like Adaboost and Gradient Boosting classifiers for the purpose of result comparison with the proposed model (combination of baseline models).
+
+![2ensemble1](https://github.com/user-attachments/assets/59be7536-4d98-4f1c-9886-68f4bd5fb63a)
+
+Overview of proposed methodology of Afaan Oromo medical text classification framework
+
 Contributor 
 1. Etana Fikadu(PhD candidate)
 2. Mrinal Das(PhD)
