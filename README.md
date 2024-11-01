@@ -1,5 +1,5 @@
 # Ensemble-Machine-Learning
-Automatic medical document classification using machine learning techniques can enhance the productivity of healthcare services by reducing processing time and cost. This work proposes an ensemble learning approach to develop a 
+Automatic medical document classification using machine learning techniques can enhance the productivity of healthcare services by reducing processing time and cost. This work proposes an ensemble learning approach to develop a 
 model that classifies electronic medical documents in Afaan Oromo. The main tasks in this work are preparing the corpus, pre-processing, training the models, and the classification process. We used the term frequency-inverse document 
 frequency (TF-IDF) and bag of words (BOW) feature extraction methods. An ensemble technique in this work is that it 
 creates multiple individual classifier predictions from naïve Bayes, random forest, SVM, and logistic regression and then 
